@@ -1,3 +1,8 @@
 This is my first file.
 Second line.
+<<<<<<< Updated upstream
 Third LINE.
+=======
+This is my second file.
+Fourth line.
+>>>>>>> Stashed changes
